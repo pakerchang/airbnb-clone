@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.95be62eb.chunk.css",
-    "main.js": "/static/js/main.17f127db.chunk.js",
-    "main.js.map": "/static/js/main.17f127db.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f4a5bfb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f4a5bfb.js.map",
-    "static/css/2.06382735.chunk.css": "/static/css/2.06382735.chunk.css",
-    "static/js/2.c8c71f7d.chunk.js": "/static/js/2.c8c71f7d.chunk.js",
-    "static/js/2.c8c71f7d.chunk.js.map": "/static/js/2.c8c71f7d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.06382735.chunk.css.map": "/static/css/2.06382735.chunk.css.map",
-    "static/css/main.95be62eb.chunk.css.map": "/static/css/main.95be62eb.chunk.css.map",
-    "static/js/2.c8c71f7d.chunk.js.LICENSE.txt": "/static/js/2.c8c71f7d.chunk.js.LICENSE.txt"
+    "main.css": "/airbnb-clone/static/css/main.95be62eb.chunk.css",
+    "main.js": "/airbnb-clone/static/js/main.17f127db.chunk.js",
+    "main.js.map": "/airbnb-clone/static/js/main.17f127db.chunk.js.map",
+    "runtime-main.js": "/airbnb-clone/static/js/runtime-main.beb605da.js",
+    "runtime-main.js.map": "/airbnb-clone/static/js/runtime-main.beb605da.js.map",
+    "static/css/2.06382735.chunk.css": "/airbnb-clone/static/css/2.06382735.chunk.css",
+    "static/js/2.c8c71f7d.chunk.js": "/airbnb-clone/static/js/2.c8c71f7d.chunk.js",
+    "static/js/2.c8c71f7d.chunk.js.map": "/airbnb-clone/static/js/2.c8c71f7d.chunk.js.map",
+    "index.html": "/airbnb-clone/index.html",
+    "static/css/2.06382735.chunk.css.map": "/airbnb-clone/static/css/2.06382735.chunk.css.map",
+    "static/css/main.95be62eb.chunk.css.map": "/airbnb-clone/static/css/main.95be62eb.chunk.css.map",
+    "static/js/2.c8c71f7d.chunk.js.LICENSE.txt": "/airbnb-clone/static/js/2.c8c71f7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f4a5bfb.js",
+    "static/js/runtime-main.beb605da.js",
     "static/css/2.06382735.chunk.css",
     "static/js/2.c8c71f7d.chunk.js",
     "static/css/main.95be62eb.chunk.css",
